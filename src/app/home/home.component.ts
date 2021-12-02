@@ -20,7 +20,7 @@ export class HomeComponent implements OnInit {
   }
 
   updateNote(): void {
-    this._FirebaseService.updateNote({id:"7MIzn0BjllSxHxlPzKCe", title: "Ahmed", text: "Akmal"})
+    this._FirebaseService.updateNote({id:"djvEk1MsqwLe8K9eJSPa", title: "Ahmed", text: "Akmal"})
   }
 
   deleteNote(id: string): void {
