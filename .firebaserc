@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "iconc-app": {
+      "hosting": {
+        "firebase-test": [
+          "iconc-app"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "iconc-app"
+  }
+}
